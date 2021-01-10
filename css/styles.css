@@ -43,12 +43,16 @@ a {
 .bottom-container {
 }
 
-.sde {
-  width: 20%;
+.sde-img {
+  width: 25%;
+  float:left;
+  margin-right:30px;
 }
 
-.comic {
-  width: 15%;
+.comic-img {
+  width: 20%;
+  float: right;
+  margin-left:20px;
 }
 .profile {
   padding-top: 20px;
@@ -94,4 +98,10 @@ a {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    line-height:2;
 }
