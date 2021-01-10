@@ -5,13 +5,13 @@ body {
 }
 
 h1 {
-  font-size: 400%;
-  width: 10%;
-  margin: 0 auto 0 auto;
+  font-size: 5.625rem;
+  margin: 50 auto 0 auto;
   font-family: "Sacramento", cursive;
 }
 
 h2 {
+    font-size:2.5rem;
   font-family: "Montserrat", sans-serif;
 }
 
